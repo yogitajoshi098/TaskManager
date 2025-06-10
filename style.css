@@ -1,0 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&display=swap');
+
+/* Example: make placeholder text a bit nicer */
+input::placeholder {
+  color: #9ca3af; /* Tailwind's gray-400 */
+}
