@@ -1,0 +1,20 @@
+[
+    {
+        "prod_name": "Cooler",
+        "price": 2000,
+        "quantity": "5 pieces",
+        "cat": "electric"
+    },
+    {
+        "prod_name": "Mobile Phone",
+        "price": 10000,
+        "quantity": "10 pieces",
+        "cat": "communication"
+    },
+    {
+        "prod_name": "Double Bed",
+        "price": 50000,
+        "quantity": "40 pieces",
+        "cat": "home furnishing"
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "students_data":[
+        {
+            "id": 1,
+            "st_name":"John Mary",
+            "subj":"Maths",
+            "marks":40
+        },
+        {
+            "id": 2,
+            "st_name":"Den Marker",
+            "subj":"English",
+            "marks":80
+        },
+        {
+            "id": 3,
+            "st_name":"Steven Lime",
+            "subj":"History",
+            "marks":60
+        },
+        {
+            "id": 4,
+            "st_name":"Maltie Marie",
+            "subj":"Hindi",
+            "marks":56
+        },
+        {
+            "id": 5,
+            "st_name":"Paul Hook",
+            "subj":"Physics",
+            "marks":35
+        }
+    ]
+}
